@@ -1,7 +1,6 @@
 import React from "react";
 import Scavenging from "./pages/Scavenging";
 import NavBar from "./components/layout/navBar";
-import FooterPage from "./components/layout/footer";
 import packageJson from "../package.json";
 
 function App() {

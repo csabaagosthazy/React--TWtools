@@ -178,8 +178,8 @@ function Row(props) {
                       </TableCell>
                       <TableCell align="center">{units.optData.spear}</TableCell>
                       <TableCell align="center">{units.optData.sword}</TableCell>
-                      <TableCell align="center">{units.optData.archer}</TableCell>
                       <TableCell align="center">{units.optData.axe}</TableCell>
+                      <TableCell align="center">{units.optData.archer}</TableCell>
                       <TableCell align="center">{units.optData.light}</TableCell>
                       <TableCell align="center">{units.optData.marcher}</TableCell>
                       <TableCell align="center">{units.optData.heavy}</TableCell>
